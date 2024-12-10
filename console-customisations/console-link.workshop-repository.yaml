@@ -5,7 +5,7 @@ metadata:
 spec:
   applicationMenu:
     imageURL: https://github.com/favicon.ico
-    section: Red Hat Summit 2023
+    section: GitOps workshop - Services Australia
   href: https://github.com/evanshortiss/rht-summit-2023-gitops-cluster-mgmt/
   location: ApplicationMenu
   text: Cluster GitOps Repository
