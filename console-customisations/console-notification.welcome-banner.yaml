@@ -6,7 +6,7 @@ spec:
   backgroundColor: '#EE0000'
   color: '#fff'
   link:
-    href: https://www.redhat.com/en/summit
+    href: https://isitchristmas.com/
     text: (Event Information)
   location: BannerTop
-  text: Welcome to 'GitOps workshop - Services Australia'
+  text: "There is no spoon"
